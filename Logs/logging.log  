@@ -1,0 +1,3828 @@
+2022-12-19 12:25:29 INFO  EmployeeRestAPI:17 - Starting TC001_GET_AllEmployee
+2022-12-19 12:25:35 INFO  EmployeeRestAPI:28 - Checking Response Body
+2022-12-19 12:25:35 INFO  EmployeeRestAPI:30 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 12:26:31 INFO  EmployeeRestAPI:17 - Starting TC001_GET_AllEmployee
+2022-12-19 12:26:37 INFO  EmployeeRestAPI:28 - Checking Response Body
+2022-12-19 12:26:38 INFO  EmployeeRestAPI:30 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 12:39:51 INFO  EmployeeRestAPI:17 - Starting TC001_GET_AllEmployee
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:68 - Checking  content type
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:70 - Content type is application/json
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:28 - Checking Response Body
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:30 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:46 - Checking Response Time
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:48 - Response Time is 1569
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:36 - Checking Status code
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:38 - Status code is 200
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:59 - Checking Status line
+2022-12-19 12:39:58 INFO  EmployeeRestAPI:61 - Status line is HTTP/1.1 200 OK
+2022-12-19 12:40:29 INFO  EmployeeRestAPI:17 - Starting TC001_GET_AllEmployee
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:68 - Checking  content type
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:70 - Content type is application/json
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:28 - Checking Response Body
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:30 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:46 - Checking Response Time
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:48 - Response Time is 1334
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:36 - Checking Status code
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:38 - Status code is 200
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:59 - Checking Status line
+2022-12-19 12:40:35 INFO  EmployeeRestAPI:61 - Status line is HTTP/1.1 200 OK
+2022-12-19 12:50:54 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 12:51:01 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 12:51:01 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:49 - Response Time is 1580
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 12:51:02 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 12:56:22 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 12:56:29 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 12:56:29 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 12:56:29 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 12:56:29 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 12:56:29 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 12:56:29 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:50 - Response Time is 1499
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 12:56:31 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 13:24:34 INFO  EmployeeRestAPI:24 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:73 - Checking  content type
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:93 - Checking Encoding
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:57 - Checking Status code
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:64 - Checking Status line
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:82 - Checking server type
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:101 - Checking Content Lenght
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:110 - Checking cookies
+2022-12-19 13:24:49 INFO  EmployeeRestAPI:117 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:28:44 INFO  EmployeeRestAPI:24 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:28:58 INFO  EmployeeRestAPI:73 - Checking  content type
+2022-12-19 13:28:58 INFO  EmployeeRestAPI:93 - Checking Encoding
+2022-12-19 13:28:58 INFO  EmployeeRestAPI:57 - Checking Status code
+2022-12-19 13:28:59 INFO  EmployeeRestAPI:64 - Checking Status line
+2022-12-19 13:28:59 INFO  EmployeeRestAPI:82 - Checking server type
+2022-12-19 13:28:59 INFO  EmployeeRestAPI:101 - Checking Content Lenght
+2022-12-19 13:28:59 INFO  EmployeeRestAPI:110 - Checking cookies
+2022-12-19 13:28:59 INFO  EmployeeRestAPI:117 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:30:21 INFO  EmployeeRestAPI:24 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:73 - Checking  content type
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:93 - Checking Encoding
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:57 - Checking Status code
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:64 - Checking Status line
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:82 - Checking server type
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:101 - Checking Content Lenght
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:110 - Checking cookies
+2022-12-19 13:30:34 INFO  EmployeeRestAPI:117 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:32:08 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:32:22 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:34:18 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:34:32 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:36:05 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:36:19 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:37:18 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:37:31 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:37:52 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayQ",
+        "salary": "00428",
+        "age": "78",
+        "id": 4981
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:38:05 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:38:37 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:56 - This is responseBody <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:67 - Status code is 429
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:83 - Content type is text/html; charset=UTF-8
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:103 - This is  Encoding gzip
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:111 - Content lenght is null
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:38:52 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:39:48 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayL",
+        "salary": "97662",
+        "age": "48",
+        "id": 1470
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:40:07 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:44:08 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "Sanjays",
+        "salary": "51822",
+        "age": "96"
+    },
+    "message": "Successfully! Record has been updated."
+}
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:111 - Content lenght is 125
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:44:27 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:49:05 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:91 - This is  Encoding null
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": "1",
+    "message": "Successfully! Record has been deleted"
+}
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:49 - Response Time is 1807
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:99 - Content lenght is 81
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:49:12 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 13:50:32 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:49 - Response Time is 1294
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 13:50:38 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 13:50:41 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 13:50:41 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 13:50:41 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 13:50:41 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 13:50:41 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:50:41 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:50 - Response Time is 116
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 13:50:43 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "Sanjayo",
+        "salary": "37714",
+        "age": "94",
+        "id": 9196
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:50:59 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:51:14 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayG",
+        "salary": "43618",
+        "age": "84"
+    },
+    "message": "Successfully! Record has been updated."
+}
+2022-12-19 13:51:14 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:51:14 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:51:14 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:51:14 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:51:14 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:51:14 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:111 - Content lenght is 125
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:51:15 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:71 - Content type is text/html; charset=UTF-8
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:31 - Response Body is <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+    <script type="text/javascript" onload="__ezcl.handle(true);" async="async" src="/utilcave_com/inc/ezcl.webp?cb=4"/>
+  </body>
+</html>
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:49 - Response Time is 416
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:39 - Status code is 429
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:51:18 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 13:52:52 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:49 - Response Time is 1425
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 13:52:58 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 13:53:01 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 13:53:01 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 13:53:01 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 13:53:01 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 13:53:01 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:53:01 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:50 - Response Time is 107
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 13:53:03 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "Sanjayx",
+        "salary": "40197",
+        "age": "67",
+        "id": 4376
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:53:19 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayI",
+        "salary": "79155",
+        "age": "56"
+    },
+    "message": "Successfully! Record has been updated."
+}
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:111 - Content lenght is 125
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:53:34 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:71 - Content type is text/html; charset=UTF-8
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:31 - Response Body is <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:49 - Response Time is 402
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:39 - Status code is 429
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:53:50 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 13:54:44 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:49 - Response Time is 1413
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 13:54:51 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 13:54:54 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 13:54:54 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 13:54:54 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 13:54:54 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 13:54:54 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:54:54 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:50 - Response Time is 180
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 13:54:56 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayK",
+        "salary": "91387",
+        "age": "74",
+        "id": 9441
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:55:12 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayF",
+        "salary": "29187",
+        "age": "47"
+    },
+    "message": "Successfully! Record has been updated."
+}
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:111 - Content lenght is 125
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:55:27 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:91 - This is  Encoding null
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": "1",
+    "message": "Successfully! Record has been deleted"
+}
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:49 - Response Time is 502
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:99 - Content lenght is 81
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:55:48 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 13:59:13 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:49 - Response Time is 1710
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 13:59:20 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 13:59:23 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 13:59:23 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 13:59:23 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 13:59:23 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 13:59:23 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 13:59:23 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:50 - Response Time is 182
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 13:59:25 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayH",
+        "salary": "79554",
+        "age": "45",
+        "id": 6736
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 13:59:41 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:56 - This is responseBody <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:67 - Status code is 429
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:83 - Content type is text/html; charset=UTF-8
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:103 - This is  Encoding gzip
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:111 - Content lenght is null
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 13:59:57 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:71 - Content type is text/html; charset=UTF-8
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:31 - Response Body is <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:49 - Response Time is 424
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:39 - Status code is 429
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:00:17 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 14:09:22 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:49 - Response Time is 1288
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 14:09:29 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 14:09:32 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 14:09:32 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 14:09:32 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 14:09:32 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 14:09:32 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:09:32 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:50 - Response Time is 177
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 14:09:34 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "Sanjayc",
+        "salary": "85281",
+        "age": "98",
+        "id": 8996
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 14:09:50 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayC",
+        "salary": "44018",
+        "age": "35"
+    },
+    "message": "Successfully! Record has been updated."
+}
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:111 - Content lenght is 125
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:10:05 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:91 - This is  Encoding null
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": "1",
+    "message": "Successfully! Record has been deleted"
+}
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:49 - Response Time is 442
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:99 - Content lenght is 81
+2022-12-19 14:10:25 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:10:26 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 14:14:28 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:49 - Response Time is 1222
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 14:14:34 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 14:14:37 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 14:14:37 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 14:14:37 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 14:14:37 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 14:14:37 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:14:37 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:50 - Response Time is 121
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 14:14:39 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayF",
+        "salary": "39624",
+        "age": "19",
+        "id": 1606
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 14:14:55 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayI",
+        "salary": "86579",
+        "age": "12"
+    },
+    "message": "Successfully! Record has been updated."
+}
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:111 - Content lenght is 125
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:15:10 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:91 - This is  Encoding null
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": "1",
+    "message": "Successfully! Record has been deleted"
+}
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:49 - Response Time is 415
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:99 - Content lenght is 81
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:15:30 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 14:27:14 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:49 - Response Time is 1421
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 14:27:21 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 14:27:24 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 14:27:24 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 14:27:24 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 14:27:24 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 14:27:24 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:27:24 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:50 - Response Time is 119
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 14:27:26 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "Sanjayh",
+        "salary": "57578",
+        "age": "36",
+        "id": 8794
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 14:27:42 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayO",
+        "salary": "88174",
+        "age": "68"
+    },
+    "message": "Successfully! Record has been updated."
+}
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:111 - Content lenght is 125
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:27:57 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:71 - Content type is text/html; charset=UTF-8
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:31 - Response Body is <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:49 - Response Time is 407
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:39 - Status code is 429
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:28:18 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
+2022-12-19 14:28:41 INFO  EmployeeRestAPI:18 - Starting TC001_GET_AllEmployee
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:71 - Content type is application/json
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:49 - Response Time is 1509
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:39 - Status code is 200
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:80 - Server type is nginx/1.21.6
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:113 - Finished TC001_Get_All Emp Test
+2022-12-19 14:28:48 INFO  EmployeeRestAPI:18 - Starting TC002_GET_Single Emp Test
+2022-12-19 14:28:51 INFO  EmployeeRestAPI:70 - Checking  content type
+2022-12-19 14:28:51 INFO  EmployeeRestAPI:72 - Content type is application/json
+2022-12-19 14:28:51 INFO  EmployeeRestAPI:90 - Checking Encoding
+2022-12-19 14:28:51 INFO  EmployeeRestAPI:92 - This is  Encoding null
+2022-12-19 14:28:51 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:28:51 INFO  EmployeeRestAPI:31 - Response Body is {
+    "status": "success",
+    "data": {
+        "id": 1,
+        "employee_name": "Tiger Nixon",
+        "employee_salary": 320800,
+        "employee_age": 61,
+        "profile_image": ""
+    },
+    "message": "Successfully! Record has been fetched."
+}
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:48 - Checking Response Time
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:50 - Response Time is 128
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:38 - Checking Status code
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:40 - Status code is 200
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:61 - Checking Status line
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:63 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:79 - Checking server type
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:81 - Server type is nginx/1.21.6
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:98 - Checking Content Lenght
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:100 - Content lenght is 179
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:107 - Checking cookies
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:114 - Finished TC002_Get_Singl_Emp Test
+2022-12-19 14:28:53 INFO  EmployeeRestAPI:32 - Starting TC003_POST_Create_Emp_Test
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:56 - This is responseBody {
+    "status": "success",
+    "data": {
+        "name": "SanjayL",
+        "salary": "67056",
+        "age": "26",
+        "id": 2442
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:67 - Status code is 200
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 200 OK
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:83 - Content type is application/json
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:103 - This is  Encoding null
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:111 - Content lenght is 133
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:125 - Finished TC003_POST_Create_Emp_Test
+2022-12-19 14:29:09 INFO  EmployeeRestAPI:32 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:56 - This is responseBody <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:65 - Checking Status code
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:67 - Status code is 429
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:72 - Checking Status line
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:74 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:81 - Checking  content type
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:83 - Content type is text/html; charset=UTF-8
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:90 - Checking server type
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:92 - Server type is Apache
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:101 - Checking Encoding
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:103 - This is  Encoding gzip
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:109 - Checking Content Lenght
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:111 - Content lenght is null
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:118 - Checking cookies
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:125 - Starting TC004_PUT_UPDATE_Emp_Test
+2022-12-19 14:29:24 INFO  EmployeeRestAPI:18 - Starting TC005_DELET_Employee
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:69 - Checking  content type
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:71 - Content type is text/html; charset=UTF-8
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:89 - Checking Encoding
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:91 - This is  Encoding gzip
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:29 - Checking Response Body
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:31 - Response Body is <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:47 - Checking Response Time
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:49 - Response Time is 405
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:37 - Checking Status code
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:39 - Status code is 429
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:60 - Checking Status line
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:62 - Status line is HTTP/1.1 429 Too Many Requests
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:78 - Checking server type
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:80 - Server type is Apache
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:97 - Checking Content Lenght
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:99 - Content lenght is null
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:106 - Checking cookies
+2022-12-19 14:29:45 INFO  EmployeeRestAPI:113 - Starting TC005_DELET_Employee
