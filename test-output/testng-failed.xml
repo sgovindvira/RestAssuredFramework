@@ -6,28 +6,49 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.employeeapi.testCases.TC005_DELETE_Employee">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="checkStatusLine"/>
-          <include name="getAllemployees"/>
-          <include name="checkContentType"/>
-          <include name="checkStatusCode"/>
-          <include name="checkResponseBody"/>
-        </methods>
-      </class> <!-- com.employeeapi.testCases.TC005_DELETE_Employee -->
       <class name="com.employeeapi.testCases.TC004_PUT_Update_Employee">
         <methods>
           <include name="CreateEMP"/>
           <include name="setup"/>
-          <include name="checkStatusCode"/>
           <include name="checkingBody"/>
+          <include name="checkStatusCode"/>
           <include name="checkStatusLine"/>
           <include name="checkContentType"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.employeeapi.testCases.TC004_PUT_Update_Employee -->
+      <class name="com.employeeapi.testCases.TC002_GET_Single_Employee">
+        <methods>
+          <include name="setup"/>
+          <include name="checkContentType"/>
+          <include name="checkStatusLine"/>
+          <include name="getSingleEmployees"/>
+          <include name="checkStatusCode"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC002_GET_Single_Employee -->
+      <class name="com.employeeapi.testCases.TC003_POST_Create_Employee">
+        <methods>
+          <include name="setup"/>
+          <include name="checkContentType"/>
+          <include name="checkStatusLine"/>
+          <include name="tearDown"/>
+          <include name="CreateEMP"/>
+          <include name="checkStatusCode"/>
+          <include name="checkingBody"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC003_POST_Create_Employee -->
+      <class name="com.employeeapi.testCases.TC005_DELETE_Employee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="checkStatusLine"/>
+          <include name="checkContentType"/>
+          <include name="getAllemployees"/>
+          <include name="checkStatusCode"/>
+          <include name="checkResponseBody"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC005_DELETE_Employee -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
