@@ -10,6 +10,8 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 public class TestBase {
+	
+	//Test for github
 
 	public static RequestSpecification httpRequests;
 	public static Response response;
@@ -26,7 +28,6 @@ public class TestBase {
 		PropertyConfigurator.configure("Log4j.properties");
 		logger.setLevel(Level.DEBUG);
 	}
-	
 	
 	
 	
